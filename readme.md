@@ -5,6 +5,7 @@
 My favourite Japanese fashion brand called UNIQLO collaborated again with a tech company called Akamai to design a T-shirt.
 
 ![Screenshot 2025-07-06 220047](https://github.com/user-attachments/assets/98ddc709-a802-4661-8fc8-707f80abfef9)
+![Screenshot 2025-07-06 224311](https://github.com/user-attachments/assets/7e1460b7-b1d0-435d-929f-e8093d2bc94e)
 
 The first shirt they made was written in Golang: [UNIQLO Akamai Go T-Shirt Code Repository](https://github.com/GL-Kageyama/UNIQLO_Akamai_T-shirt_Code). However, this new shirt was written in base64 obfuscated shellscript which was pretty cool.
 
